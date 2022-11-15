@@ -6,7 +6,7 @@ const Intern = require("./lib/Intern");
 const Engineer = require("./lib/Engineer");
 const Employee = require("./lib/Employee");
 
-// const { renderPage } = require("./src/pageTemplate.js");
+const { renderPage } = require("./src/pageTemp.js");
 
 const teamArr = [];
 
