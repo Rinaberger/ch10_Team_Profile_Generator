@@ -1,0 +1,28 @@
+{
+  "name": "ch10_team_profile_generator",
+  "version": "1.0.0",
+  "description": "**set up for first push** for develop",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rinaberger/ch10_Team_Profile_Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rinaberger/ch10_Team_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/Rinaberger/ch10_Team_Profile_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
