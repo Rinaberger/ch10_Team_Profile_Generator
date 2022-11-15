@@ -4,7 +4,7 @@ TITLE: Team Profile Tracker
 AUTHOR: Scott Rinaberger
 
 LINKS:
-    ** VIDEO: 
+    ** VIDEO: https://drive.google.com/file/d/1cu54Wp3pZKIeDEugH9QBjy90uKVG_Uad/view
     ** GitHub URL: https://github.com/Rinaberger/ch10_Team_Profile_Generator.git
 
     USER STORY
